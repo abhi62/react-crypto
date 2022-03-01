@@ -51,7 +51,7 @@ function Header() {
             >
               Crypto Fun
             </Typography>
-            {/* <Button color="inherit">Login</Button> */}
+            {/* <Button color='inherit'>Login</Button> */}
             <Select
               variant='outlined'
               labelId='demo-simple-select-label'
